@@ -1,4 +1,4 @@
-# Zhang2021Microbiome
+# Zhang2021-Spike-QMP and qPCR-QMP
 
 Scripts for statistics and plotting figures in "Feasibility assessment of spike-QMP and qPCR-QMP in soil microbiota quantitative research".
 

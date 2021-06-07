@@ -1,0 +1,30 @@
+---
+title: "Figure 3. The performance of spike-QMP"
+author: "Meiling Zhang"
+date: "2021/3/16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>")
+```
+
+## a-b. he proportion of spike reads in total sequencing reads at each spike level.
+![image](Fig. 3a-b.jpg)
+
+## c-d. The relationship between the spike copies and the ratio of spike reads to DNA sample reads.
+![image](Fig. 3c-d.jpg)
+Fig. 3a-d is generated using Excel.
+
+## e-f. Thequantitative abundance estimated  by using single spike, spike linear relationship and qPCR results.
+![image](Fig. 3e-f.jpg)
+Fig. 3e-f is generated using GraphPad Prism 8.
+
+
+This figure is manually modified by Adobe Illustrator.
+
+
+
+

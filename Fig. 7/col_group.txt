@@ -1,0 +1,5 @@
+	Treatment	Group
+CK_RA	CK	RA
+Straw_RA	Straw	RA
+CK_AA	CK	AA
+Straw_AA	Straw	AA

@@ -1,0 +1,10 @@
+Phylum	RA	AA
+ Ascomycota	183	405
+ Proteobacteria	183	276
+ Actinobacteriota	90	213
+ Fungi_unclassified	91	166
+ Basidiomycota	51	153
+ Chloroflexi	85	150
+ Myxococcota	5	94.76
+ Acidobacteriota	101	78
+Other	186	217

@@ -1,0 +1,21 @@
+---
+title: "Figure 1. The pitfalls of relative microbiome profiling (RMP) and review of quantitative microbiome profiling (QMP). "
+author: "Meiling Zhang"
+date: "2021/4/27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>")
+```
+
+## a-b. The pitfalls of RMP.
+## c-h. The current QMP strategies including spike-QMP and qPCR-QMP.
+
+This figure is manually drawn by Adobe Illustrator.
+![image](Fig. 1.jpg)
+
+
+

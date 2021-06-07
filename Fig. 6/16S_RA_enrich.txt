@@ -1,0 +1,109 @@
+ID	SampleGroup	RA	Site	Treatment	Decription
+1	HL_7	2.251	HL	RA	 Actinobacteriota
+2	HL_7		HL	RA	 Armatimonadota
+3	HL_7		HL	RA	 Abditibacteriota
+4	HL_7		HL	RA	 Acidobacteriota
+5	HL_7	0.081	HL	RA	 Bacteroidota
+6	HL_7		HL	RA	 Bdellovibrionota
+7	HL_7		HL	RA	 Chloroflexi
+8	HL_7		HL	RA	 Desulfobacterota
+9	HL_7		HL	RA	 Dependentiae
+10	HL_7		HL	RA	 Elusimicrobiota
+11	HL_7	0.034	HL	RA	 Firmicutes
+12	HL_7		HL	RA	 Gemmatimonadota
+13	HL_7		HL	RA	 Myxococcota
+14	HL_7	0.26	HL	RA	 Patescibacteria
+15	HL_7		HL	RA	 Planctomycetota
+16	HL_7	6.001	HL	RA	 Proteobacteria
+17	HL_7		HL	RA	 Verrucomicrobiota
+18	HL_7		HL	RA	Other
+19	HL_30	0.067	HL	RA	 Actinobacteriota
+20	HL_30		HL	RA	 Armatimonadota
+21	HL_30		HL	RA	 Abditibacteriota
+22	HL_30		HL	RA	 Acidobacteriota
+23	HL_30	0.512	HL	RA	 Bacteroidota
+24	HL_30		HL	RA	 Bdellovibrionota
+25	HL_30		HL	RA	 Chloroflexi
+26	HL_30		HL	RA	 Desulfobacterota
+27	HL_30		HL	RA	 Dependentiae
+28	HL_30		HL	RA	 Elusimicrobiota
+29	HL_30		HL	RA	 Firmicutes
+30	HL_30		HL	RA	 Gemmatimonadota
+31	HL_30		HL	RA	 Myxococcota
+32	HL_30	0.228	HL	RA	 Patescibacteria
+33	HL_30		HL	RA	 Planctomycetota
+34	HL_30	0.238	HL	RA	 Proteobacteria
+35	HL_30		HL	RA	 Verrucomicrobiota
+36	HL_30		HL	RA	Other
+37	HL_60		HL	RA	 Actinobacteriota
+38	HL_60		HL	RA	 Armatimonadota
+39	HL_60		HL	RA	 Abditibacteriota
+40	HL_60		HL	RA	 Acidobacteriota
+41	HL_60		HL	RA	 Bacteroidota
+42	HL_60		HL	RA	 Bdellovibrionota
+43	HL_60		HL	RA	 Chloroflexi
+44	HL_60		HL	RA	 Desulfobacterota
+45	HL_60		HL	RA	 Dependentiae
+46	HL_60		HL	RA	 Elusimicrobiota
+47	HL_60		HL	RA	 Firmicutes
+48	HL_60		HL	RA	 Gemmatimonadota
+49	HL_60		HL	RA	 Myxococcota
+50	HL_60		HL	RA	 Patescibacteria
+51	HL_60		HL	RA	 Planctomycetota
+52	HL_60		HL	RA	 Proteobacteria
+53	HL_60		HL	RA	 Verrucomicrobiota
+54	HL_60		HL	RA	Other
+55	SY_7	0.016	SY	RA	 Actinobacteriota
+56	SY_7		SY	RA	 Armatimonadota
+57	SY_7		SY	RA	 Abditibacteriota
+58	SY_7		SY	RA	 Acidobacteriota
+59	SY_7	1.56	SY	RA	 Bacteroidota
+60	SY_7		SY	RA	 Bdellovibrionota
+61	SY_7		SY	RA	 Chloroflexi
+62	SY_7		SY	RA	 Desulfobacterota
+63	SY_7		SY	RA	 Dependentiae
+64	SY_7		SY	RA	 Elusimicrobiota
+65	SY_7	1.116	SY	RA	 Firmicutes
+66	SY_7		SY	RA	 Gemmatimonadota
+67	SY_7		SY	RA	 Myxococcota
+68	SY_7	2.461	SY	RA	 Patescibacteria
+69	SY_7		SY	RA	 Planctomycetota
+70	SY_7	12.949	SY	RA	 Proteobacteria
+71	SY_7		SY	RA	 Verrucomicrobiota
+72	SY_7		SY	RA	Other
+73	SY_30	1.133	SY	RA	 Actinobacteriota
+74	SY_30		SY	RA	 Armatimonadota
+75	SY_30		SY	RA	 Abditibacteriota
+76	SY_30		SY	RA	 Acidobacteriota
+77	SY_30		SY	RA	 Bacteroidota
+78	SY_30		SY	RA	 Bdellovibrionota
+79	SY_30		SY	RA	 Chloroflexi
+80	SY_30		SY	RA	 Desulfobacterota
+81	SY_30		SY	RA	 Dependentiae
+82	SY_30		SY	RA	 Elusimicrobiota
+83	SY_30	1.567	SY	RA	 Firmicutes
+84	SY_30		SY	RA	 Gemmatimonadota
+85	SY_30		SY	RA	 Myxococcota
+86	SY_30	1.128	SY	RA	 Patescibacteria
+87	SY_30		SY	RA	 Planctomycetota
+88	SY_30	3.478	SY	RA	 Proteobacteria
+89	SY_30	0.448	SY	RA	 Verrucomicrobiota
+90	SY_30		SY	RA	Other
+91	SY_60		SY	RA	 Actinobacteriota
+92	SY_60		SY	RA	 Armatimonadota
+93	SY_60		SY	RA	 Abditibacteriota
+94	SY_60		SY	RA	 Acidobacteriota
+95	SY_60	0.157	SY	RA	 Bacteroidota
+96	SY_60		SY	RA	 Bdellovibrionota
+97	SY_60		SY	RA	 Chloroflexi
+98	SY_60		SY	RA	 Desulfobacterota
+99	SY_60		SY	RA	 Dependentiae
+100	SY_60		SY	RA	 Elusimicrobiota
+101	SY_60	2.074	SY	RA	 Firmicutes
+102	SY_60		SY	RA	 Gemmatimonadota
+103	SY_60	0.043	SY	RA	 Myxococcota
+104	SY_60	0.094	SY	RA	 Patescibacteria
+105	SY_60		SY	RA	 Planctomycetota
+106	SY_60	0.65	SY	RA	 Proteobacteria
+107	SY_60	0.184	SY	RA	 Verrucomicrobiota
+108	SY_60		SY	RA	Other

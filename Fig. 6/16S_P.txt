@@ -1,0 +1,12 @@
+	HL_RA	HL_AA	SY_RA	SY_AA
+Other	0	0	0	0.338
+Verrucomicrobiota	0.001	0.001	0.425	0.028
+Patescibacteria	0.005	0.005	0	0.001
+Myxococcota	0.005	0.018	0.004	0.606
+Gemmatimonadota	0	0.002	0.005	0.611
+Bacteroidota	0.001	0.892	0	0
+Firmicutes	0.96	0.479	0	0
+Acidobacteriota	0.025	0.003	0	0.613
+Chloroflexi	0.001	0.019	0	0.429
+Actinobacteriota	0.191	0.614	0.617	0.002
+Proteobacteria	0.01	0.712	0.085	0

@@ -1,0 +1,5 @@
+	Site	Method
+HLP_RA	HL	RA
+HLP_AA	HL	AA
+SYU_RA	SY	RA
+SYU_AA	SY	AA

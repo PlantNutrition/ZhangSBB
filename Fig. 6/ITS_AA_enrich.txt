@@ -1,0 +1,79 @@
+ID	SampleGroup	AA	Site	Treatment	Decription
+1	HL_7	16136464	HL	AA	 Ascomycota_unclassified
+2	HL_7	1.65E+06	HL	AA	 Dothideomycetes
+3	HL_7	2.06E+06	HL	AA	 Eurotiomycetes
+4	HL_7		HL	AA	 Leotiomycetes
+5	HL_7	7.63E+05	HL	AA	 Orbiliomycetes
+6	HL_7	2.43E+06	HL	AA	 Pezizomycetes
+7	HL_7	4.88E+06	HL	AA	 Sordariomycetes
+8	HL_7	2.29E+07	HL	AA	 Agaricomycetes
+9	HL_7		HL	AA	 Ustilaginomycetes
+10	HL_7		HL	AA	Basidiomycota_unclassified
+11	HL_7	1.49E+06	HL	AA	 Chytridiomycetes
+12	HL_7	1.39E+07	HL	AA	 Fungi_unclassified
+13	HL_7	3.61E+05	HL	AA	 Zygomycota_unclassified
+14	HL_30	9022001.809	HL	AA	 Ascomycota_unclassified
+15	HL_30	2.90E+05	HL	AA	 Dothideomycetes
+16	HL_30	1.86E+06	HL	AA	 Eurotiomycetes
+17	HL_30		HL	AA	 Leotiomycetes
+18	HL_30	2.16E+05	HL	AA	 Orbiliomycetes
+19	HL_30	1.99E+06	HL	AA	 Pezizomycetes
+20	HL_30	3.75E+07	HL	AA	 Sordariomycetes
+21	HL_30	1.24E+07	HL	AA	 Agaricomycetes
+22	HL_30		HL	AA	 Ustilaginomycetes
+23	HL_30		HL	AA	Basidiomycota_unclassified
+24	HL_30	8.88E+05	HL	AA	 Chytridiomycetes
+25	HL_30	9.81E+06	HL	AA	 Fungi_unclassified
+26	HL_30	1.23E+05	HL	AA	 Zygomycota_unclassified
+27	HL_60	19653854.21	HL	AA	 Ascomycota_unclassified
+28	HL_60	2.42E+06	HL	AA	 Dothideomycetes
+29	HL_60	2.00E+06	HL	AA	 Eurotiomycetes
+30	HL_60	3.01E+05	HL	AA	 Leotiomycetes
+31	HL_60	5.37E+05	HL	AA	 Orbiliomycetes
+32	HL_60	1.30E+06	HL	AA	 Pezizomycetes
+33	HL_60	6.85E+06	HL	AA	 Sordariomycetes
+34	HL_60	1.94E+07	HL	AA	 Agaricomycetes
+35	HL_60		HL	AA	 Ustilaginomycetes
+36	HL_60	5.71E+04	HL	AA	Basidiomycota_unclassified
+37	HL_60	1.38E+06	HL	AA	 Chytridiomycetes
+38	HL_60	1.78E+07	HL	AA	 Fungi_unclassified
+39	HL_60		HL	AA	 Zygomycota_unclassified
+40	SY_7	16477848.57	SY	AA	 Ascomycota_unclassified
+41	SY_7	4.87E+04	SY	AA	 Dothideomycetes
+42	SY_7		SY	AA	 Eurotiomycetes
+43	SY_7		SY	AA	 Leotiomycetes
+44	SY_7	1.84E+07	SY	AA	 Orbiliomycetes
+45	SY_7	3.02E+07	SY	AA	 Pezizomycetes
+46	SY_7	2.53E+07	SY	AA	 Sordariomycetes
+47	SY_7	3.88E+07	SY	AA	 Agaricomycetes
+48	SY_7	2.40E+05	SY	AA	 Ustilaginomycetes
+49	SY_7		SY	AA	Basidiomycota_unclassified
+50	SY_7	5.83E+06	SY	AA	 Chytridiomycetes
+51	SY_7	2.14E+07	SY	AA	 Fungi_unclassified
+52	SY_7		SY	AA	 Zygomycota_unclassified
+53	SY_30	10220228.42	SY	AA	 Ascomycota_unclassified
+54	SY_30	4.18E+04	SY	AA	 Dothideomycetes
+55	SY_30		SY	AA	 Eurotiomycetes
+56	SY_30		SY	AA	 Leotiomycetes
+57	SY_30	2.91E+06	SY	AA	 Orbiliomycetes
+58	SY_30	2.58E+06	SY	AA	 Pezizomycetes
+59	SY_30	8.70E+07	SY	AA	 Sordariomycetes
+60	SY_30	9.77E+06	SY	AA	 Agaricomycetes
+61	SY_30		SY	AA	 Ustilaginomycetes
+62	SY_30		SY	AA	Basidiomycota_unclassified
+63	SY_30		SY	AA	 Chytridiomycetes
+64	SY_30	3.39E+07	SY	AA	 Fungi_unclassified
+65	SY_30	4.66E+04	SY	AA	 Zygomycota_unclassified
+66	SY_60	18161427.75	SY	AA	 Ascomycota_unclassified
+67	SY_60	6.81E+04	SY	AA	 Dothideomycetes
+68	SY_60	5.28E+04	SY	AA	 Eurotiomycetes
+69	SY_60		SY	AA	 Leotiomycetes
+70	SY_60	4.58E+06	SY	AA	 Orbiliomycetes
+71	SY_60	2.93E+07	SY	AA	 Pezizomycetes
+72	SY_60	6.58E+07	SY	AA	 Sordariomycetes
+73	SY_60	1.00E+07	SY	AA	 Agaricomycetes
+74	SY_60		SY	AA	 Ustilaginomycetes
+75	SY_60		SY	AA	Basidiomycota_unclassified
+76	SY_60	4.23E+07	SY	AA	 Chytridiomycetes
+77	SY_60	2.89E+07	SY	AA	 Fungi_unclassified
+78	SY_60		SY	AA	 Zygomycota_unclassified

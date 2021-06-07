@@ -1,0 +1,12 @@
+Sample ID	Phylum
+Other	Other
+Verrucomicrobiota	Verrucomicrobiota
+Patescibacteria	Patescibacteria
+Myxococcota	Myxococcota
+Gemmatimonadota	Gemmatimonadota
+Bacteroidota	Bacteroidota
+Firmicutes	Firmicutes
+Acidobacteriota	Acidobacteriota
+Chloroflexi	Chloroflexi
+Actinobacteriota	Actinobacteriota
+Proteobacteria	Proteobacteria

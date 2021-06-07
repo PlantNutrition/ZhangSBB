@@ -1,0 +1,79 @@
+ID	SampleGroup	RA	Site	Treatment	Decription
+1	HL_7	1.812	HL	RA	 Ascomycota_unclassified
+2	HL_7	0.103	HL	RA	 Dothideomycetes
+3	HL_7	0.174	HL	RA	 Eurotiomycetes
+4	HL_7		HL	RA	 Leotiomycetes
+5	HL_7	0.031	HL	RA	 Orbiliomycetes
+6	HL_7	0.206	HL	RA	 Pezizomycetes
+7	HL_7	8.289	HL	RA	 Sordariomycetes
+8	HL_7	2.052	HL	RA	 Agaricomycetes
+9	HL_7		HL	RA	 Ustilaginomycetes
+10	HL_7		HL	RA	Basidiomycota_unclassified
+11	HL_7	0.08	HL	RA	 Chytridiomycetes
+12	HL_7	1.268	HL	RA	 Fungi_unclassified
+13	HL_7	0.128	HL	RA	 Zygomycota_unclassified
+14	HL_30	2.224	HL	RA	 Ascomycota_unclassified
+15	HL_30	0.029	HL	RA	 Dothideomycetes
+16	HL_30	0.061	HL	RA	 Eurotiomycetes
+17	HL_30		HL	RA	 Leotiomycetes
+18	HL_30	0.033	HL	RA	 Orbiliomycetes
+19	HL_30	0.178	HL	RA	 Pezizomycetes
+20	HL_30	6.977	HL	RA	 Sordariomycetes
+21	HL_30	1.002	HL	RA	 Agaricomycetes
+22	HL_30		HL	RA	 Ustilaginomycetes
+23	HL_30		HL	RA	Basidiomycota_unclassified
+24	HL_30	0.075	HL	RA	 Chytridiomycetes
+25	HL_30	1.077	HL	RA	 Fungi_unclassified
+26	HL_30	0.015	HL	RA	 Zygomycota_unclassified
+27	HL_60	2.457	HL	RA	 Ascomycota_unclassified
+28	HL_60	0.187	HL	RA	 Dothideomycetes
+29	HL_60	0.063	HL	RA	 Eurotiomycetes
+30	HL_60		HL	RA	 Leotiomycetes
+31	HL_60	0.051	HL	RA	 Orbiliomycetes
+32	HL_60	0.15	HL	RA	 Pezizomycetes
+33	HL_60	7.183	HL	RA	 Sordariomycetes
+34	HL_60	1.579	HL	RA	 Agaricomycetes
+35	HL_60		HL	RA	 Ustilaginomycetes
+36	HL_60		HL	RA	Basidiomycota_unclassified
+37	HL_60	0.209	HL	RA	 Chytridiomycetes
+38	HL_60	1.836	HL	RA	 Fungi_unclassified
+39	HL_60	0.14	HL	RA	 Zygomycota_unclassified
+40	SY_7	1.819	SY	RA	 Ascomycota_unclassified
+41	SY_7		SY	RA	 Dothideomycetes
+42	SY_7		SY	RA	 Eurotiomycetes
+43	SY_7		SY	RA	 Leotiomycetes
+44	SY_7	1.866	SY	RA	 Orbiliomycetes
+45	SY_7	3.567	SY	RA	 Pezizomycetes
+46	SY_7	2.796	SY	RA	 Sordariomycetes
+47	SY_7	1.827	SY	RA	 Agaricomycetes
+48	SY_7		SY	RA	 Ustilaginomycetes
+49	SY_7		SY	RA	Basidiomycota_unclassified
+50	SY_7	0.02	SY	RA	 Chytridiomycetes
+51	SY_7	2.033	SY	RA	 Fungi_unclassified
+52	SY_7		SY	RA	 Zygomycota_unclassified
+53	SY_30	1.045	SY	RA	 Ascomycota_unclassified
+54	SY_30		SY	RA	 Dothideomycetes
+55	SY_30		SY	RA	 Eurotiomycetes
+56	SY_30		SY	RA	 Leotiomycetes
+57	SY_30	0.451	SY	RA	 Orbiliomycetes
+58	SY_30		SY	RA	 Pezizomycetes
+59	SY_30	19.987	SY	RA	 Sordariomycetes
+60	SY_30	0.648	SY	RA	 Agaricomycetes
+61	SY_30		SY	RA	 Ustilaginomycetes
+62	SY_30		SY	RA	Basidiomycota_unclassified
+63	SY_30	0.757	SY	RA	 Chytridiomycetes
+64	SY_30	2.43	SY	RA	 Fungi_unclassified
+65	SY_30	0.004	SY	RA	 Zygomycota_unclassified
+66	SY_60	1.946	SY	RA	 Ascomycota_unclassified
+67	SY_60	0.009	SY	RA	 Dothideomycetes
+68	SY_60	0.006	SY	RA	 Eurotiomycetes
+69	SY_60		SY	RA	 Leotiomycetes
+70	SY_60	0.442	SY	RA	 Orbiliomycetes
+71	SY_60	3.186	SY	RA	 Pezizomycetes
+72	SY_60	21.241	SY	RA	 Sordariomycetes
+73	SY_60	1.211	SY	RA	 Agaricomycetes
+74	SY_60		SY	RA	 Ustilaginomycetes
+75	SY_60		SY	RA	Basidiomycota_unclassified
+76	SY_60	2.114	SY	RA	 Chytridiomycetes
+77	SY_60	1.767	SY	RA	 Fungi_unclassified
+78	SY_60		SY	RA	 Zygomycota_unclassified

@@ -1,0 +1,6 @@
+Sample ID	Phylum
+Unclassified	Unclassified
+Zygomycota	Zygomycota
+Chytridiomycota	Chytridiomycota
+Basidiomycota	Basidiomycota
+Ascomycota	Ascomycota

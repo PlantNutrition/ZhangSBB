@@ -1,0 +1,24 @@
+---
+title: "Figure 2. The 16S rRNA and ITS gene copies in test soil samples are detected by quantitative PCR (qPCR)"
+author: "Meiling Zhang"
+date: "2021/12/29"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>")
+```
+
+## a. The copy number of bacterial 16S rRNA gene and fungal ITS gene were quantified by qPCR.
+
+This figure is generated using GraphPad Prism 8 and modified by Adobe Illustrator.
+
+![image](Fig. 2.jpg)
+
+
+
+
+
+
